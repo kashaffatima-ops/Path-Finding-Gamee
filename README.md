@@ -1,4 +1,4 @@
-# Maze Racing Game
+# Path Finding Game
 
 ## About
 
